@@ -21,5 +21,4 @@
    - [Панель исследования кластеров DBScan](https://github.com/maryginm/Work_analysis_tasks/blob/c3fd842b43b065878436b1878a39b18e9d97e9e0/Cluster_BI_model/02_Res_panel_DBScan.png)
      [Работа фильтров, с визуализацией TSNE](https://github.com/maryginm/Work_analysis_tasks/blob/c3fd842b43b065878436b1878a39b18e9d97e9e0/Cluster_BI_model/02_filtered_DBScan.png)
    - [Панель исследования кластеров KMeans](https://github.com/maryginm/Work_analysis_tasks/blob/c3fd842b43b065878436b1878a39b18e9d97e9e0/Cluster_BI_model/03_Res_panel_KMeans.png)
-
-  [Модель Power BI](https://github.com/maryginm/Work_analysis_tasks/tree/98e4960cdc740d228027bb390d1b102c308b57f4/Cluster_BI_model)
+   - [Модель Power BI](https://github.com/maryginm/Work_analysis_tasks/tree/98e4960cdc740d228027bb390d1b102c308b57f4/Cluster_BI_model)
